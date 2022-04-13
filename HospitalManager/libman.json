@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "defaultDestination": "wwwroot/",
+  "libraries": [
+    {
+      "provider": "cdnjs",
+      "destination": "wwwroot/micaelLib/",
+      "library": "angular-ui@0.4.0"
+    },
+    {
+      "provider": "cdnjs",
+      "destination": "wwwroot/micaelLib/",
+      "library": "fullcalendar@4.2.0"
+    },
+    {
+      "provider": "cdnjs",
+      "destination": "wwwroot/micaelLib/",
+      "library": "angular-datatables@2.1.0"
+    },
+    {
+      "provider": "cdnjs",
+      "destination": "wwwroot/micaelLib/",
+      "library": "jqueryui@1.12.1"
+    }
+  ]
+}
